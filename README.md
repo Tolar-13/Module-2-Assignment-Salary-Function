@@ -14,11 +14,10 @@ This project provides a Jupyter Notebook to extract employee details from a sala
 
 ### R
 - Rstudio (version 3.6 or later)
-- utils library
 - readr library
 
 ## Instructions
 1. Open and run the `export_employee_details.ipynb` notebook on Jupyter or any Python environment.
 2. The employee details will be saved to `Employee Profile.zip`.
-3. Install required R packages on Rstudio.
+3. Load required R packages on Rstudio.
 4. Run `unzip_and_display.R` on Rstudio.
